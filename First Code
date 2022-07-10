@@ -1,0 +1,28 @@
+package JavaLearning;
+
+import java.util.Scanner;
+
+public class JavaLearning {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	System.out.println("First Program count ");
+	
+	int a,b;
+	
+	a = 30;
+	b = 20;
+	
+	if (a>b) {
+	
+	System.out.println("A is Big");
+	
+	}
+	else {
+		System.out.println("B is Big");
+	}
+	
+	}
+
+}
