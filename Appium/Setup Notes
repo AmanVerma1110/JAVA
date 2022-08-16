@@ -17,7 +17,9 @@ Appium First program to invoke the Android App
 
 CMD Note's 
 
-npm install -g apium (Widnow)
-sudo npm install -g apium (MAC)
+npm install -g appium@next (Widnow)
+sudo npm install -g appium@next (MAC)
+appium driver list ( to check driver list)
+appium driver install uiautomator2 ( for install driver )
 
 
