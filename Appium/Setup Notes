@@ -1,0 +1,23 @@
+Step By Step Instrution for Appium Configuration in Window/ MAC
+
+Download JAVA
+Download Android Studio and find out the Android SDK path   
+DownLoad Node
+Set (JAVA ,Android SDK & Node) Home Path in Window System Veriables
+Set (JAVA ,Android SDK & Node) Home Path in MAC OS System Veriables
+Open Android Studio and Configure Emulator/Virtual Device
+Install and start the Appium server via Node
+Install Eclipse editor
+Understand the Desired Capabilities to setup the Enviroment in the Appium 
+Appium First program to invoke the Android App
+
+
+--------------------------------------------------------------------------------
+
+
+CMD Note's 
+
+npm install -g apium (Widnow)
+sudo npm install -g apium (MAC)
+
+
