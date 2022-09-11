@@ -11,7 +11,10 @@ public  class PositiveNegative{
         if(num>0){
             System.out.println("Enter number is Positive");
         }
-        else{
+        else if(num==0){
+            System.out.println("Enter number is Zero");
+        }
+        else {
             System.out.println("Enter number is Negative");
         }
     }
