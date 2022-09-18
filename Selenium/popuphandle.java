@@ -37,7 +37,7 @@ public class AlertDemo {
         driver.findElement(By.cssSelector("#content > div > ul > li:nth-child(3) > button")).click( );
         wait.until(ExpectedConditions.alertIsPresent( ));
         Alert alert3 = driver.switchTo( ).alert( );
-        alert.sendKeys("Pramod");
+        alert.sendKeys("Aman");
         alert.accept( );
         System.out.println(driver.findElement(By.id("result")).getText());
 
