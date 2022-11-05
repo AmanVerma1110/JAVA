@@ -28,7 +28,7 @@
 
 https://www.edureka.co/java-j2ee-soa-training
 
-[Ak. MT. 01-05-2018](http://www.akmtir.com/)
+[Ak. MT. 04-11-2022](http://www.akmtir.com/)
 
 
 
