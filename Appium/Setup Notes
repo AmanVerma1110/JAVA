@@ -23,3 +23,6 @@ appium driver list ( to check driver list)
 appium driver install uiautomator2 ( for install driver )
 
 
+dumpsys window windows | grep -E 'mTopActivityComponent'
+
+
